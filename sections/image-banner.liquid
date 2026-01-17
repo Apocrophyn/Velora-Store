@@ -21,6 +21,22 @@
   	}
    {% endif %}
 
+   {% if section.settings.local_video_filename != blank %}
+    #Banner-{{ section.id }}::before,
+    #Banner-{{ section.id }} .banner__media::before {
+      padding-bottom: {{ section.settings.image_height }}%; /* Fallback or specific height for video? */
+      content: '';
+      display: block;
+    }
+    @media screen and (min-width: 750px) {
+      #Banner-{{ section.id }}::before,
+      #Banner-{{ section.id }} .banner__media::before {
+         padding-bottom: {{ section.settings.image_height }}%;
+      }
+    }
+   {% endif %}
+
+
    {% if section.settings.enable_custom_image_height and section.settings.image != blank %}
   	#Banner-{{ section.id }}::before,
   	#Banner-{{ section.id }} .banner__media::before {
@@ -120,8 +136,15 @@
 >
 	{% if section.settings.video != blank %}
 		<div class="banner__media banner__media--video banner__top media">
-			{{ section.settings.video | video_tag: autoplay: true, loop: true, muted: true }}
+			{{ section.settings.video | video_tag: autoplay: true, loop: true, muted: true, controls: false }}
 		</div>
+  {% elsif section.settings.local_video_filename != blank %}
+    <div class="banner__media banner__media--video banner__top media">
+      <video autoplay muted loop playsinline style="width: 100%; height: 100%; object-fit: cover;">
+        <source src="{{ section.settings.local_video_filename | asset_url }}" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+    </div>
 	{% else %}
 
 		{%- if section.settings.image != blank -%}
@@ -256,7 +279,7 @@
 			</div>
 		{%- endif -%}
 	{% endif %}
-  <div class="banner__content banner__content--{{ section.settings.desktop_text_box_position }} page-width{% if settings.theme_animations != 'no-animation' %} aside-text scroll-animation{% endif %}">
+  <div class="banner__content banner__content--{{ section.settings.desktop_text_box_position }} banner__content--h-{{ section.settings.desktop_text_horizontal_position }} page-width{% if settings.theme_animations != 'no-animation' %} aside-text scroll-animation{% endif %}">
     <div class="banner__box">
       {%- for block in section.blocks -%}
         {%- case block.type -%}
@@ -436,6 +459,12 @@
 			"label": "Video"
 		},
     {
+      "type": "text",
+      "id": "local_video_filename",
+      "label": "Local Video Filename (in Assets)",
+      "info": "E.g. 'my-video.mp4'. Upload the file to Assets first."
+    },
+    {
       "type": "select",
       "id": "desktop_text_box_position",
       "options": [
@@ -454,6 +483,26 @@
       ],
       "default": "center",
       "label": "t:sections.image-banner.settings.desktop_text_box_position.label"
+    },
+    {
+      "type": "select",
+      "id": "desktop_text_horizontal_position",
+      "options": [
+        {
+          "value": "flex-start",
+          "label": "Left"
+        },
+        {
+          "value": "center",
+          "label": "Center"
+        },
+        {
+          "value": "flex-end",
+          "label": "Right"
+        }
+      ],
+      "default": "center",
+      "label": "Desktop content horizontal position"
     },
     {
       "type": "range",
