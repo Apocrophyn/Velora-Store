@@ -193,7 +193,7 @@
 			</div>
 		{%- elsif section.settings.image_2 == blank -%}
 			<div class="banner__media media{% if section.settings.image == blank and section.settings.image_2 == blank %} placeholder{% endif %}{% if section.settings.image_2 != blank %} banner__media-half{% if settings.theme_animations != 'no-animation' %} aside-media scroll-animation{% endif %}{% endif %}">
-				{{ 'lifestyle-2' | placeholder_svg_tag: 'placeholder-svg' }}
+				<img src="{{ 'hero-banner.png' | asset_url }}" loading="lazy" width="3840" height="2160" alt="Hysterium Hero Banner" style="width: 100%; height: 100%; object-fit: cover; position: absolute; inset: 0;">
 			</div>
 		{%- endif -%}
 		{%- if section.settings.image_2 != blank -%}
