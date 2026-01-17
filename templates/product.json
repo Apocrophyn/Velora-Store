@@ -1,0 +1,284 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "title": {
+          "type": "title",
+          "settings": {
+            "title_font": "hf-heading",
+            "title_color": "color-text-main",
+            "title_size": "h2",
+            "title_weight": "weight-medium",
+            "title_style": "initial",
+            "block_width": false
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+            "price_font": "hf-body",
+            "price_class": "price--extra-small",
+            "price_weight": "weight-normal",
+            "block_width": false
+          }
+        },
+        "bb8ee773-7738-44f5-bf27-6eeb1a9dd411": {
+          "type": "inventory",
+          "settings": {
+            "text_style": "body",
+            "inventory_threshold": 10,
+            "show_inventory_quantity": true
+          }
+        },
+        "6a578acf-8b7f-4667-aa8e-1a62cf83215a": {
+          "type": "coundownBar",
+          "settings": {
+            "font_family": "body-font",
+            "bottom_space": "",
+            "countdown_style": "",
+            "coundown_date": "July 1, 2025",
+            "coundown_end": "disable_buttons",
+            "contdown_label": "Hurry Up! Sale Ends In",
+            "contdown_label_text_color": "color-text-secondary",
+            "days_label": "Days",
+            "days_color": "#f58156",
+            "hours_label": "Hrs",
+            "hours_color": "#f26365",
+            "mins_label": "Mins",
+            "mins_color": "#f04375",
+            "secs_label": "Secs",
+            "secs_color": "#ee2c82"
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "dropdown",
+            "color_button": true,
+            "picker_style": "style-1",
+            "picker_font_size": 14,
+            "picker_font_weight": "500",
+            "picker_text_style": "uppercase",
+            "picker_label": true,
+            "label_font_size": 16,
+            "label_font_weight": "400",
+            "label_text_style": ""
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "product_form_style": "style-1",
+            "button_style": "btn_secondary",
+            "button_type": "button_outline_icon",
+            "show_in_stock": false,
+            "in_stock": "In stock - Ready to ship!",
+            "out_of_stock": "Out of stock",
+            "show_dynamic_checkout": true,
+            "button_unbranded_style": "btn_secondary",
+            "checkout_button_type": "button_icon",
+            "image": "",
+            "show_gift_card_recipient": true
+          }
+        },
+        "f919f78f-cec6-43e1-a0d5-e277777cafff": {
+          "type": "complementary",
+          "settings": {
+            "block_heading": "Pairs well with",
+            "font_weight": "weight-medium",
+            "pagination_style": "counter",
+            "product_list_limit": 10,
+            "products_per_page": 3,
+            "enable_quick_add": true,
+            "quick_add_label": "Choose options"
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+            "description_heading": "",
+            "description_top_line": true,
+            "description_tab": false,
+            "color_description_title": "",
+            "size_description_title": "h4",
+            "text_size": "body-fs-medium"
+          }
+        }
+      },
+      "block_order": [
+        "title",
+        "price",
+        "bb8ee773-7738-44f5-bf27-6eeb1a9dd411",
+        "6a578acf-8b7f-4667-aa8e-1a62cf83215a",
+        "variant_picker",
+        "buy_buttons",
+        "f919f78f-cec6-43e1-a0d5-e277777cafff",
+        "description"
+      ],
+      "settings": {
+        "enable_sticky_add_to_cart": false,
+        "enable_sticky_content": true,
+        "content_width": 440,
+        "enable_breadcrumb": true,
+        "breadcrumb_style": "style-1",
+        "breadcrumbs_product_collection": "none",
+        "show_products": true,
+        "custom_product_collection": "",
+        "custom_product_collection_list": [],
+        "breadcrumbs_space": "",
+        "media_fit": "cover",
+        "gallery_layout": "stacked-without-gaps",
+        "thumbnail_position": "bottom",
+        "gallery_layout_circle": false,
+        "hide_variants": false,
+        "show_image_outline": true,
+        "mobile_thumbnails": "bullets",
+        "enable_video_looping": false,
+        "enable_video_autoplay": false,
+        "enable_gallery_popup": true,
+        "section_show_badges": true,
+        "column_width": 57,
+        "padding_top": 80,
+        "padding_bottom": 0,
+        "background_style": "none",
+        "color_bg": "#5b6460",
+        "overlay": "",
+        "columns_gap": "gap--small"
+      }
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "settings": {
+        "heading": "<p>You May Also Like</p>",
+        "heading_complementary": "<p>Pairs well with</p>",
+        "heading_color": "color-text-main",
+        "horizontal_align": "align-center",
+        "product_style": "style-4",
+        "image_ratio": "portrait",
+        "show_secondary_image": true,
+        "zoom_image": false,
+        "show_image_outline": true,
+        "section_show_badges": true,
+        "show_add_to_card": true,
+        "show_quick_view": true,
+        "product_variants": false,
+        "product_info_align": "left",
+        "heading_font": "hf-body",
+        "heading_style": "",
+        "p_heading_color": "color-text-main",
+        "heading_size": "small",
+        "font_weight": "400",
+        "price_size": "medium",
+        "p_button_style": "btn_primary",
+        "show_vendor": false,
+        "show_rating": false,
+        "product_count": 4,
+        "without-gaps": true,
+        "card_style": "grid",
+        "padding_top": 126,
+        "padding_bottom": 132,
+        "color_bg": "rgba(0,0,0,0)"
+      }
+    },
+    "1664870494e9918043": {
+      "type": "recently-viewed-product",
+      "settings": {
+        "heading": "<p>Recently Viewed</p>",
+        "horizontal_align": "align-center",
+        "columns_gap": "offset-col-lg-2",
+        "columns_gap_mb": "offset-col-sm-2",
+        "rows_gap_mb": "offset-row-sm-5",
+        "product_style": "style-4",
+        "image_ratio": "portrait",
+        "show_secondary_image": false,
+        "zoom_image": false,
+        "show_image_outline": true,
+        "product_info_align": "left",
+        "heading_font": "hf-body",
+        "heading_size": "small",
+        "font_weight": "400",
+        "heading_color": "color-text-main",
+        "price_size": "medium",
+        "padding_top": 0,
+        "padding_bottom": 140,
+        "color_bg": ""
+      }
+    },
+    "e6b46501-a002-4d00-91fe-ddf099d2433b": {
+      "type": "scrolling-text",
+      "blocks": {
+        "template--21353693315378__e6b46501-a002-4d00-91fe-ddf099d2433b-item-1": {
+          "type": "item",
+          "settings": {
+            "section_title": "<p>PREMIUM STREETWEAR</p>",
+            "text_color": "#ebe5cf"
+          }
+        },
+        "template--21353693315378__e6b46501-a002-4d00-91fe-ddf099d2433b-icon-1": {
+          "type": "icon",
+          "settings": {
+            "image": ""
+          }
+        },
+        "template--21353693315378__e6b46501-a002-4d00-91fe-ddf099d2433b-item-2": {
+          "type": "item",
+          "settings": {
+            "section_title": "<p>PREMIUM STREETWEAR</p>",
+            "text_color": "#f58156"
+          }
+        },
+        "template--21353693315378__e6b46501-a002-4d00-91fe-ddf099d2433b-icon-2": {
+          "type": "icon",
+          "settings": {
+            "image": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--21353693315378__e6b46501-a002-4d00-91fe-ddf099d2433b-item-1",
+        "template--21353693315378__e6b46501-a002-4d00-91fe-ddf099d2433b-icon-1",
+        "template--21353693315378__e6b46501-a002-4d00-91fe-ddf099d2433b-item-2",
+        "template--21353693315378__e6b46501-a002-4d00-91fe-ddf099d2433b-icon-2"
+      ],
+      "settings": {
+        "scroll_speed": 20,
+        "heading_font": "hf-heading",
+        "text_size": 52,
+        "heading_letter_spacing": 0.4,
+        "text_weight": "weight-bold",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "btn_secondary",
+        "button_type": "button",
+        "show_popup": false,
+        "enable_in_customizer": false,
+        "popup_heading": "<p>Add campaign or promotional text here.</p>",
+        "popup_description": "<p>Add descriptive text to invite your users to sign up for your newsletter.</p>",
+        "popup_tag": "Coming soon",
+        "popup_background_color": "#f9f5f0",
+        "popup_button_style": "btn_secondary",
+        "popup_button_type": "button",
+        "section_top_padding": 0,
+        "section_bottom_padding": 36,
+        "background_color": "#111111",
+        "color_bg_gradient": ""
+      }
+    }
+  },
+  "order": [
+    "main",
+    "product-recommendations",
+    "1664870494e9918043",
+    "e6b46501-a002-4d00-91fe-ddf099d2433b"
+  ]
+}

@@ -1,0 +1,80 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-search",
+      "settings": {
+        "enable_filtering": true,
+        "enable_sorting": true,
+        "load_more_button_style": "btn_primary",
+        "heading_style": "uppercase",
+        "letter_spacing": 0.4,
+        "search_descr": "<p>Search for something that’ll make your wardrobe feel classier, sophistication, luxury.</p>",
+        "results_per_page": 16,
+        "col_in_row": "col-3",
+        "columns_gap": "offset-col-lg-2",
+        "columns_gap_mb": "offset-col-sm-2",
+        "rows_gap": "offset-row-lg-5",
+        "rows_gap_mb": "offset-row-sm-5",
+        "product_style": "style-4",
+        "image_ratio": "portrait",
+        "show_secondary_image": false,
+        "zoom_image": false,
+        "show_image_outline": true,
+        "section_show_badges": true,
+        "show_add_to_card": true,
+        "show_quick_view": true,
+        "product_variants": false,
+        "product_info_align": "left",
+        "product_heading_font": "hf-body",
+        "p_heading_style": "",
+        "heading_color": "color-text-main",
+        "product_heading_size": "large",
+        "font_weight": "400",
+        "price_size": "extra-large",
+        "p_button_style": "btn_primary",
+        "show_vendor": false,
+        "show_rating": false,
+        "article_show_image": true,
+        "article_image_ratio": "110",
+        "media_radius": 0,
+        "heading_font": "hf-body",
+        "heading_size": "large",
+        "heading_font_weight": "400",
+        "gap": "",
+        "article_show_date": false,
+        "article_show_author": false,
+        "show_above_heading": false,
+        "article_show_excerpt": false,
+        "description_size": "",
+        "article_truncatewords": 20,
+        "article_show_button": false,
+        "article_button_label": "CONTINUE READING",
+        "button_style": "btn_primary",
+        "article_style": "style-1",
+        "card_hover": "image-icon",
+        "collection_style": "filter-style-4",
+        "label_style": "uppercase",
+        "label_size": "",
+        "label_weight": "weight-normal",
+        "filter_button_style": "btn_secondary",
+        "enable_custom_color": true,
+        "filter_text_color": "#111111",
+        "filter_bg_color": "#ebe5cf",
+        "padding_top": 120,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "main"
+  ]
+}

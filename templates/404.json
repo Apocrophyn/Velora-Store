@@ -1,0 +1,26 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-404",
+      "settings": {
+        "color_header": "color-text-main",
+        "heading_weight": "700",
+        "heading_style": "uppercase",
+        "letter_spacing": 0.4,
+        "text_color_2": "#f58156",
+        "text_2": "404",
+        "color_subtitle": "color-text-main",
+        "color_rte": "color-text-main",
+        "text": "<p>Please make sure the web address is correct, or try the Home page<\/p>",
+        "heading_font": "hf-body",
+        "add_image_for_text": true,
+        "image_for_text": "",
+        "image": "",
+        "color_bg": "#111111"
+      }
+    }
+  },
+  "order": [
+    "main"
+  ]
+}

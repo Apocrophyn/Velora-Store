@@ -1,0 +1,124 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "name": "Header",
+  "type": "header",
+  "sections": {
+    "announcement-bar": {
+      "type": "announcement-bar",
+      "blocks": {
+        "68032e4a-f66c-4911-8d4a-716c6b2fb7a3": {
+          "type": "announcement",
+          "settings": {
+            "text": "<p>SALE UPDATE: NOW UP TO 60% OFF</p>"
+          }
+        },
+        "63c256dd-815b-4cc7-8996-60226b91bfd6": {
+          "type": "announcement",
+          "settings": {
+            "text": "<p>SALE UPDATE: NOW UP TO 60% OFF</p>"
+          }
+        },
+        "364905ed-eef7-416f-8afb-fd9bb3814144": {
+          "type": "announcement",
+          "settings": {
+            "text": "<p>SALE UPDATE: NOW UP TO 60% OFF</p>"
+          }
+        }
+      },
+      "block_order": [
+        "68032e4a-f66c-4911-8d4a-716c6b2fb7a3",
+        "63c256dd-815b-4cc7-8996-60226b91bfd6",
+        "364905ed-eef7-416f-8afb-fd9bb3814144"
+      ],
+      "settings": {
+        "hide_announcement": false,
+        "color_bg": "background-1",
+        "color_text": "text-main",
+        "custom_color": "",
+        "text_size": 13,
+        "autoplay_slider": true,
+        "loop_slider": true,
+        "slide_speed": 5000,
+        "slide_delay": 1600,
+        "hover_stop_play": true,
+        "items_count_desktop": 1,
+        "section_top_padding": 6,
+        "section_bottom_padding": 6
+      }
+    },
+    "header": {
+      "type": "header",
+      "settings": {
+        "color_bg": "background-1",
+        "color_text": "text-main",
+        "logo_position": "middle-center",
+        "menu": "main-menu",
+        "header_link_weight": "normal",
+        "header_link_hover_color": "link",
+        "header_link_custom_hover_color": "#E2D5C5",
+        "counter_bg": "#f58156",
+        "counter_color": "#fff",
+        "show_dropdown_icon": true,
+        "show_link_underline": true,
+        "switch_line_separator": "show-2",
+        "separator_color": "",
+        "enable_sticky_header": true,
+        "items_with_icons_style": "hide-labels",
+        "enable_search": true,
+        "menu_dropdown": "menu-click",
+        "color_transparent": false,
+        "color_bg_transparent": "background-1-transparent",
+        "color_text_transparent": "text-secondary-transparent",
+        "color_text_transparent_scroll": "text-main-transparent-scroll",
+        "header_link_hover_color_transparent": "secondary",
+        "header_link_custom_hover_color_transparent": "#e2d5c5",
+        "header_link_hover_color_transparent_scroll": "link",
+        "header_link_custom_hover_color_transparent_scroll": "#e2d5c5",
+        "counter_bg_transparent": "#C49D84",
+        "counter_bg_transparent_scroll": "#C49D84",
+        "counter_color_transparent": "#fff",
+        "counter_color_transparent_scroll": "#fff",
+        "search_input_style": "modal",
+        "enable_mm": true,
+        "mm_style": "style-1",
+        "menu_animation": "menu-overlay",
+        "mega_menu_bg": "background-1",
+        "mm_color_bg": "#4c4c4c",
+        "mega_menu_color_text": "text-main",
+        "enable_custom_title_settings": true,
+        "custom_title_size": 14,
+        "custom_title_style": "uppercase",
+        "enable_custom_text_settings": false,
+        "custom_text_size": 16,
+        "mega_menu_image": "",
+        "image_ratio": "portrait",
+        "hide_mega_menu_image": false,
+        "hide_mega_menu_image_mobile": false,
+        "mm_collection": "",
+        "mm_collection2": "",
+        "enable_country_selector": false,
+        "show_country_name": true,
+        "enable_language_selector": true,
+        "drawer_menu_background": "",
+        "drawer_icon": "",
+        "mobile_color_text": "text-main",
+        "enable_mobile_social": false,
+        "mobile_link_background": "light",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    }
+  },
+  "order": [
+    "announcement-bar",
+    "header"
+  ]
+}

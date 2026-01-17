@@ -1,0 +1,552 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "title": "<p>OUR STORY</p>",
+        "title_text": "STORY",
+        "title_color": "#f58156",
+        "description": "",
+        "enable_description_max_width": false,
+        "description_max_width": 520,
+        "banner_padding_top": 90,
+        "banner_padding_bottom": 90,
+        "show_page_breadcrumbs": true,
+        "heading_letter_spacing": 0.4,
+        "heading_style": "",
+        "text_color": "dark",
+        "image_full_width": false,
+        "content_padding_top": 90,
+        "content_padding_bottom": 90,
+        "color_bg": ""
+      }
+    },
+    "about-images-grid": {
+      "type": "images-grid",
+      "blocks": {
+        "9dcd2503-45c1-472c-b95a-d6e56d61f415": {
+          "type": "column",
+          "settings": {
+            "image": ""
+          }
+        },
+        "057905d4-a3c1-456b-a29c-da6fc65d08b4": {
+          "type": "column",
+          "settings": {
+            "image": ""
+          }
+        },
+        "0130076d-d0f7-48e0-b25b-1f7a51fc0555": {
+          "type": "column",
+          "settings": {
+            "image": ""
+          }
+        }
+      },
+      "block_order": [
+        "9dcd2503-45c1-472c-b95a-d6e56d61f415",
+        "057905d4-a3c1-456b-a29c-da6fc65d08b4",
+        "0130076d-d0f7-48e0-b25b-1f7a51fc0555"
+      ],
+      "settings": {
+        "img_position": "height_right",
+        "image_width": 60,
+        "column_gap": true,
+        "column_gap_mobile": true,
+        "image_borders": true,
+        "padding_top": 6,
+        "padding_bottom": 0,
+        "color_bg": ""
+      }
+    },
+    "about-heading": {
+      "type": "heading",
+      "blocks": {
+        "fa0b7c25-e2fd-4b00-a548-3cdb6b135021": {
+          "type": "heading",
+          "settings": {
+            "position": "left",
+            "heading": "REBELS WITH A CAUSE"
+          }
+        },
+        "3b65cfb5-0606-499e-8436-06d78f146b77": {
+          "type": "text",
+          "settings": {
+            "position": "left",
+            "text": "<p>Our mission is to empower the bold, the unconventional, and the daring. We exist to support those who challenge the norms, those who create their own rules. Through our streetwear, we want to give you the tools to express yourself fearlessly.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "fa0b7c25-e2fd-4b00-a548-3cdb6b135021",
+        "3b65cfb5-0606-499e-8436-06d78f146b77"
+      ],
+      "settings": {
+        "style": "",
+        "col_width": 50,
+        "add_font_size": false,
+        "heading_font_size": 42,
+        "add_font_size_mobile": false,
+        "heading_font_size_mobile": 42,
+        "add_font_weight": false,
+        "heading_font_weight": "600",
+        "add_font_weight_mobile": false,
+        "heading_font_weight_mobile": "600",
+        "add_font_color": false,
+        "heading_font_color": "#5b6460",
+        "add_font_color_mobile": false,
+        "heading_font_color_mobile": "#5b6460",
+        "add_text_font_size": false,
+        "text_font_size": 16,
+        "add_text_font_size_mobile": false,
+        "text_font_size_mobile": 16,
+        "add_text_font_color": false,
+        "text_font_color": "#333941",
+        "add_text_font_color_mobile": false,
+        "text_font_color_mobile": "#333941",
+        "b_position": "left",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "btn_secondary",
+        "button_type": "button",
+        "align_content": "center",
+        "add_max_width": true,
+        "heading_max_width": 660,
+        "add_max_width_mobile": false,
+        "heading_max_width_mobile": 460,
+        "padding_top": 140,
+        "padding_bottom": 136,
+        "color_bg": ""
+      }
+    },
+    "about-info-1": {
+      "type": "image-with-text",
+      "blocks": {
+        "1598859a-34d8-4f11-a969-b6d18f43f1e6": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>The Streetwise Mastermind</p>",
+            "title_font": "heading-font",
+            "heading_size": "h2",
+            "heading_letter_spacing": 0,
+            "custom_heading_weight": "weight-medium",
+            "enable_custom_heading_size": false,
+            "custom_heading_size": 72
+          }
+        },
+        "8e4734dd-5587-403e-bb9b-a74bfb6fdc66": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Our founder, known to the world simply as \"Blaze,\" is the enigmatic force behind this electrifying streetwear brand. Blaze is a nocturnal architect of style, whose roots run deep in the urban underground. </p><p>From spray-paint cans to custom threads, they have always pushed the boundaries of what street fashion could be. The brand's ethos is a reflection of Blaze's journey: raw, authentic, and unafraid to challenge the status quo. Their passion for customization, individuality, and rebellion is the driving force behind every piece that carries their iconic signature.</p>",
+            "text_block_size": "",
+            "enable_custom_text_border": false,
+            "top_space": "",
+            "enable_custom_text_size": false,
+            "text_font": "hf-body",
+            "custom_text_size": 18,
+            "custom_text_weight": "weight-normal",
+            "text_font_strong": "heading-font",
+            "custom_text_size_strong": 18,
+            "custom_text_weight_strong": "weight-bold",
+            "custom_description_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "1598859a-34d8-4f11-a969-b6d18f43f1e6",
+        "8e4734dd-5587-403e-bb9b-a74bfb6fdc66"
+      ],
+      "settings": {
+        "image": "",
+        "height": "adapt",
+        "image_padding": "",
+        "layout": "image_first",
+        "layout_mobile": "image_first",
+        "column_width": 53,
+        "media_radius": 0,
+        "enable_video_url": false,
+        "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "enable_video_looping": false,
+        "enable_video_autoplay": false,
+        "text_color": "color-text-main",
+        "text_position": "center",
+        "align_content": "left",
+        "text_position_image": "normal",
+        "content_paddings": "content-paddings-left",
+        "content_color_bg": "",
+        "padding_top": 0,
+        "padding_bottom": 140,
+        "color_bg": "",
+        "overlay": "",
+        "full_width": false,
+        "top_line": false,
+        "bottom_line": false
+      }
+    },
+    "about-info-2": {
+      "type": "image-with-text",
+      "blocks": {
+        "5f627be8-4967-4e5d-957b-00ea435f4ec8": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Commitment to Individuality</p>",
+            "title_font": "heading-font",
+            "heading_size": "h2",
+            "heading_letter_spacing": 0,
+            "custom_heading_weight": "weight-medium",
+            "enable_custom_heading_size": false,
+            "custom_heading_size": 72
+          }
+        },
+        "30bbefea-34be-468a-a458-65afd468e406": {
+          "type": "text",
+          "settings": {
+            "text": "<p>We are committed to celebrating the quirks, the oddities, and the eccentricities that make you, you. We believe that individuality should never be stifled, but celebrated.</p><p>Our streetwear pieces are designed to be a reflection of your unique personality, allowing you to showcase your distinct style to the world.</p>",
+            "text_block_size": "",
+            "enable_custom_text_border": false,
+            "top_space": "",
+            "enable_custom_text_size": false,
+            "text_font": "hf-body",
+            "custom_text_size": 18,
+            "custom_text_weight": "weight-normal",
+            "text_font_strong": "heading-font",
+            "custom_text_size_strong": 18,
+            "custom_text_weight_strong": "weight-bold",
+            "custom_description_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "5f627be8-4967-4e5d-957b-00ea435f4ec8",
+        "30bbefea-34be-468a-a458-65afd468e406"
+      ],
+      "settings": {
+        "image": "",
+        "height": "adapt",
+        "image_padding": "",
+        "layout": "text_first",
+        "layout_mobile": "image_first",
+        "column_width": 53,
+        "media_radius": 0,
+        "enable_video_url": false,
+        "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "enable_video_looping": false,
+        "enable_video_autoplay": false,
+        "text_color": "color-text-main",
+        "text_position": "center",
+        "align_content": "left",
+        "text_position_image": "large",
+        "content_paddings": "content-paddings-right",
+        "content_color_bg": "",
+        "padding_top": 0,
+        "padding_bottom": 132,
+        "color_bg": "",
+        "overlay": "",
+        "full_width": false,
+        "top_line": false,
+        "bottom_line": false
+      }
+    },
+    "team": {
+      "type": "multiimages",
+      "blocks": {
+        "c399b8a3-c02b-4aa0-a58a-ab4407ef514c": {
+          "type": "column",
+          "settings": {
+            "image": "",
+            "enable_image": true,
+            "title": "Lily Wilkins",
+            "text": "<p>Product Head</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "02a3d9cc-2b21-4840-bf45-813323237259": {
+          "type": "column",
+          "settings": {
+            "image": "",
+            "enable_image": true,
+            "title": "Marjorie Williams",
+            "text": "<p>Fashion Consultant</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "4ccc4558-ab6d-4566-8abd-c6e1a04d57f8": {
+          "type": "column",
+          "settings": {
+            "image": "",
+            "enable_image": true,
+            "title": "John Mathews",
+            "text": "<p>Designer</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "e64ea95b-6be7-4f47-8721-0d44f8661c1e": {
+          "type": "column",
+          "settings": {
+            "image": "",
+            "enable_image": true,
+            "title": "Jame Wilson",
+            "text": "<p>Stylist</p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "c399b8a3-c02b-4aa0-a58a-ab4407ef514c",
+        "02a3d9cc-2b21-4840-bf45-813323237259",
+        "4ccc4558-ab6d-4566-8abd-c6e1a04d57f8",
+        "e64ea95b-6be7-4f47-8721-0d44f8661c1e"
+      ],
+      "settings": {
+        "title": "<p>The Crew Behind the Threads</p>",
+        "subtext": "",
+        "heading_center": true,
+        "heading_color": "dark",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "button-primary",
+        "button_type": "button",
+        "button_align": "",
+        "button_position": "",
+        "show_images": true,
+        "image_borders": true,
+        "image_width": "full",
+        "image_ratio": "portrait",
+        "image_fit": "cover",
+        "show_text": true,
+        "heading_font": "hf-body",
+        "heading_size": "h3",
+        "font_weight": "400",
+        "enable_custom_font_size": false,
+        "custom_font_size": 24,
+        "text_color": "color-text-main",
+        "col_in_row": "col-4",
+        "col_in_row_mobile": "col-sm-2",
+        "column_gap": "none",
+        "column_gap_mb": "offset-col-sm-2",
+        "rows_gap": "offset-row-lg-5",
+        "rows_gap_mb": "offset-row-sm-5",
+        "column_alignment": "center",
+        "column_style": "",
+        "col_1_width": 1600,
+        "enable_description_width": false,
+        "description_width": 360,
+        "padding_top": 0,
+        "padding_bottom": 136,
+        "color_bg": "rgba(0,0,0,0)",
+        "add_top_line": false,
+        "add_bottom_line": false
+      }
+    },
+    "features": {
+      "type": "multiimages",
+      "blocks": {
+        "5b2c1dd8-50f7-4d93-b9fe-2f72facc8427": {
+          "type": "column",
+          "settings": {
+            "image": "",
+            "enable_image": true,
+            "title": "Timeless Swagger",
+            "text": "<p>We fuse contemporary aesthetics with timeless intricacies, crafting pieces that'll have your back long after this season's fashion fades into obscurity.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "d075a0ed-377c-4b01-8e19-1e1d1e513c1b": {
+          "type": "column",
+          "settings": {
+            "image": "",
+            "enable_image": true,
+            "title": "Unparalleled Creations",
+            "text": "<p>We're forever hunting down the tiny quirks, shades, and accents that elevate a product from a crowded rack to the spotlight of any fashion sanctuary.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "9ac298c8-8adf-4c83-8c0a-47c4079fbe76": {
+          "type": "column",
+          "settings": {
+            "image": "",
+            "enable_image": true,
+            "title": "Rebel with a Cause",
+            "text": "<p>We've got the local scene's back. With your support, we're backing community nonprofits, ensuring our legacy goes beyond the threads and into the hearts of our neighbourhoods.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "5b2c1dd8-50f7-4d93-b9fe-2f72facc8427",
+        "d075a0ed-377c-4b01-8e19-1e1d1e513c1b",
+        "9ac298c8-8adf-4c83-8c0a-47c4079fbe76"
+      ],
+      "settings": {
+        "title": "",
+        "subtext": "",
+        "heading_center": false,
+        "heading_color": "dark",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "button-primary",
+        "button_type": "button",
+        "button_align": "",
+        "button_position": "",
+        "show_images": true,
+        "image_borders": false,
+        "image_width": "one-fourth",
+        "image_ratio": "adapt",
+        "image_fit": "contain",
+        "show_text": true,
+        "heading_font": "hf-body",
+        "heading_size": "h3",
+        "font_weight": "500",
+        "enable_custom_font_size": false,
+        "custom_font_size": 18,
+        "text_color": "color-text-main",
+        "col_in_row": "col-4",
+        "col_in_row_mobile": "",
+        "column_gap": "none",
+        "column_gap_mb": "offset-col-sm-2",
+        "rows_gap": "offset-row-lg-5",
+        "rows_gap_mb": "offset-row-sm-5",
+        "column_alignment": "center",
+        "column_style": "style-1",
+        "col_1_width": 1600,
+        "enable_description_width": true,
+        "description_width": 380,
+        "padding_top": 0,
+        "padding_bottom": 140,
+        "color_bg": "#111111",
+        "add_top_line": false,
+        "add_bottom_line": false
+      }
+    },
+    "about-products": {
+      "type": "trending-products",
+      "settings": {
+        "title": "<p>Curated by Blaze</p>",
+        "text": "Blaze",
+        "text_color_2": "#f58156",
+        "description": "<p>Have a look at our handpicked creations from this collection, a curated selection of the edgiest pieces found throughout our shop. </p>",
+        "color_text": "text-main",
+        "align_heading_mobile": "",
+        "show_view_all": true,
+        "button_label": "SHOP ALL FAVORITES",
+        "button_url": "",
+        "button_style": "btn_primary",
+        "button_type": "button_with_underline",
+        "collection": "",
+        "product_limit": 8,
+        "slides_range": 3.3,
+        "arrows_style": "style-4",
+        "arrows_position": "below-content",
+        "align_navigation_mobile": "mobile-flex-start",
+        "slider_gaps": true,
+        "product_style": "style-4",
+        "section_show_badges": true,
+        "show_add_to_card": true,
+        "show_quick_view": true,
+        "image_ratio": "square",
+        "show_secondary_image": true,
+        "zoom_image": false,
+        "show_image_outline": true,
+        "product_info_align": "left",
+        "heading_font": "hf-body",
+        "heading_color": "",
+        "heading_size": "small",
+        "font_weight": "400",
+        "p_button_style": "btn_primary",
+        "show_vendor": false,
+        "price_size": "",
+        "show_rating": false,
+        "padding_top": 0,
+        "padding_bottom": 140,
+        "color_bg": ""
+      }
+    },
+    "482741e7-dbb0-4665-97c3-899672370a67": {
+      "type": "scrolling-text",
+      "blocks": {
+        "template--21353693774130__482741e7-dbb0-4665-97c3-899672370a67-item-1": {
+          "type": "item",
+          "settings": {
+            "section_title": "<p>PREMIUM STREETWEAR</p>",
+            "text_color": "#ebe5cf"
+          }
+        },
+        "template--21353693774130__482741e7-dbb0-4665-97c3-899672370a67-icon-1": {
+          "type": "icon",
+          "settings": {
+            "image": ""
+          }
+        },
+        "template--21353693774130__482741e7-dbb0-4665-97c3-899672370a67-item-2": {
+          "type": "item",
+          "settings": {
+            "section_title": "<p>PREMIUM STREETWEAR</p>",
+            "text_color": "#f58156"
+          }
+        },
+        "template--21353693774130__482741e7-dbb0-4665-97c3-899672370a67-icon-2": {
+          "type": "icon",
+          "settings": {
+            "image": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--21353693774130__482741e7-dbb0-4665-97c3-899672370a67-item-1",
+        "template--21353693774130__482741e7-dbb0-4665-97c3-899672370a67-icon-1",
+        "template--21353693774130__482741e7-dbb0-4665-97c3-899672370a67-item-2",
+        "template--21353693774130__482741e7-dbb0-4665-97c3-899672370a67-icon-2"
+      ],
+      "settings": {
+        "scroll_speed": 30,
+        "heading_font": "hf-heading",
+        "text_size": 52,
+        "heading_letter_spacing": 0.4,
+        "text_weight": "weight-bold",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "btn_secondary",
+        "button_type": "button",
+        "show_popup": false,
+        "enable_in_customizer": false,
+        "popup_heading": "<p>Add campaign or promotional text here.</p>",
+        "popup_description": "<p>Add descriptive text to invite your users to sign up for your newsletter.</p>",
+        "popup_tag": "Coming soon",
+        "popup_background_color": "#f9f5f0",
+        "popup_button_style": "btn_secondary",
+        "popup_button_type": "button",
+        "section_top_padding": 0,
+        "section_bottom_padding": 36,
+        "background_color": "#111111",
+        "color_bg_gradient": ""
+      }
+    }
+  },
+  "order": [
+    "main",
+    "about-images-grid",
+    "about-heading",
+    "about-info-1",
+    "about-info-2",
+    "team",
+    "features",
+    "about-products",
+    "482741e7-dbb0-4665-97c3-899672370a67"
+  ]
+}

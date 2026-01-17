@@ -1,0 +1,249 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "banner": {
+      "type": "main-collection-banner",
+      "settings": {
+        "heading_align": "center",
+        "heading-color": "color-text-main",
+        "heading_style": "uppercase",
+        "heading_letter_spacing": 0.4,
+        "show_collection_description": false,
+        "description_color": "color-text-main",
+        "show_collection_breadcrumb": true,
+        "breadcrumbs_color": "color-text-main",
+        "show_collection_image": false,
+        "image_width": "",
+        "image_size": true,
+        "oval_image": true,
+        "image_overlay_opacity": 0,
+        "padding_top": 120,
+        "padding_bottom": 100,
+        "show_collection_bg": false,
+        "color_bg": "#4d624e"
+      }
+    },
+    "product-grid": {
+      "type": "main-collection-product-grid",
+      "settings": {
+        "products_per_page": 4,
+        "col_in_row": "col-3",
+        "columns_mobile": "",
+        "columns_gap": "offset-col-lg-2",
+        "columns_gap_mb": "offset-col-sm-2",
+        "rows_gap": "offset-row-lg-2",
+        "rows_gap_mb": "offset-row-sm-2",
+        "load_pagination": "load",
+        "pagination_style": "style-1",
+        "load_more_label": "Show More",
+        "load_more_button_style": "btn_primary",
+        "button_type_lm": "button_icon",
+        "show_bottom_line": false,
+        "product_style": "style-4",
+        "image_ratio": "portrait",
+        "show_secondary_image": true,
+        "zoom_image": false,
+        "show_image_outline": true,
+        "section_show_badges": true,
+        "show_add_to_card": true,
+        "show_quick_view": true,
+        "product_variants": false,
+        "product_info_align": "left",
+        "heading_font": "hf-body",
+        "heading_color": "color-text-main",
+        "heading_size": "small",
+        "heading_style": "",
+        "font_weight": "400",
+        "price_size": "",
+        "p_button_style": "btn_primary",
+        "show_vendor": false,
+        "show_rating": false,
+        "collection_style": "filter-style-4",
+        "label_style": "uppercase",
+        "label_size": "",
+        "label_weight": "weight-normal",
+        "enable_filtering": true,
+        "show_label_filter": false,
+        "show_label_2_filter": true,
+        "enable_checkbox": false,
+        "enable_sorting": true,
+        "enable_nav_layout": true,
+        "enable_prod_count": true,
+        "collapse_on_larger_devices": false,
+        "filter_button_style": "btn_primary",
+        "enable_facets_count": true,
+        "enable_custom_color": true,
+        "filter_text_color": "#111111",
+        "filter_bg_color": "#ebe5cf",
+        "image": "",
+        "discount_heading": "BUY 2 GET 25% OFF",
+        "text": "25% OFF",
+        "text_color_2": "#f58156",
+        "button_label": "BUY NOW",
+        "button_link": "",
+        "button_style": "btn_primary",
+        "button_type": "button_with_underline",
+        "padding_top": 30,
+        "padding_bottom": 132
+      }
+    },
+    "news": {
+      "type": "featured-blog",
+      "settings": {
+        "heading": "<p>Design Inspiration</p>",
+        "subtext": "",
+        "heading_align": "left",
+        "heading_align_mb": "mobile-left",
+        "show_view_all": true,
+        "view_all_label": "KNOW MORE",
+        "button_style_h": "btn_primary",
+        "button_type_h": "button_with_underline",
+        "blog": "",
+        "post_limit": 3,
+        "col_in_row": "col-3",
+        "col_in_row_mobile": "col-sm-2",
+        "columns_gap": "offset-col-lg-2",
+        "columns_gap_mb": "offset-col-sm-2",
+        "add_posts_slider_d": false,
+        "slides_range_d": 2,
+        "show_arrows": false,
+        "add_posts_slider": false,
+        "slides_range": 1.4,
+        "card_style": "style-1",
+        "show_image": true,
+        "image_ratio": "square",
+        "media_radius": 0,
+        "card_hover": "image-icon",
+        "show_badge": false,
+        "heading_font": "hf-body",
+        "heading_style": "",
+        "heading_color": "color-text-main",
+        "heading_size": "large",
+        "heading_font_weight": "400",
+        "gap": "",
+        "heading_font_weight_hover": false,
+        "show_date": false,
+        "show_author": false,
+        "show_above_heading": false,
+        "show_description": true,
+        "description_width": 800,
+        "description_size": "",
+        "description_color": "color-text-main",
+        "show_comments": false,
+        "show_read_more": true,
+        "button_label": "CONTINUE READING",
+        "button_style": "btn_primary",
+        "button_type": "button_with_underline",
+        "button_space": "",
+        "section_top_padding": 0,
+        "section_bottom_padding": 138,
+        "color_bg": "",
+        "top_line": false
+      }
+    },
+    "1a8f9469-2fa6-4d2d-a230-395bb767e99f": {
+      "type": "scrolling-text",
+      "blocks": {
+        "template--21353693970738__1a8f9469-2fa6-4d2d-a230-395bb767e99f-item-1": {
+          "type": "item",
+          "settings": {
+            "section_title": "<p>PREMIUM STREETWEAR</p>",
+            "text_color": "#ebe5cf"
+          }
+        },
+        "template--21353693970738__1a8f9469-2fa6-4d2d-a230-395bb767e99f-icon-1": {
+          "type": "icon",
+          "settings": {
+            "image": ""
+          }
+        },
+        "template--21353693970738__1a8f9469-2fa6-4d2d-a230-395bb767e99f-item-2": {
+          "type": "item",
+          "settings": {
+            "section_title": "<p>PREMIUM STREETWEAR</p>",
+            "text_color": "#f58156"
+          }
+        },
+        "template--21353693970738__1a8f9469-2fa6-4d2d-a230-395bb767e99f-icon-2": {
+          "type": "icon",
+          "settings": {
+            "image": ""
+          }
+        },
+        "template--21353693970738__1a8f9469-2fa6-4d2d-a230-395bb767e99f-item-3": {
+          "type": "item",
+          "settings": {
+            "section_title": "<p>PREMIUM STREETWEAR</p>",
+            "text_color": "#ebe5cf"
+          }
+        },
+        "template--21353693970738__1a8f9469-2fa6-4d2d-a230-395bb767e99f-icon-3": {
+          "type": "icon",
+          "settings": {
+            "image": ""
+          }
+        },
+        "8c3796f7-9c14-4258-8784-3834ab7681f3": {
+          "type": "item",
+          "settings": {
+            "section_title": "<p>PREMIUM STREETWEAR</p>",
+            "text_color": "#f58156"
+          }
+        },
+        "b6e0d9f8-b7dc-47c1-9122-cf1b20b2db11": {
+          "type": "icon",
+          "settings": {
+            "image": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--21353693970738__1a8f9469-2fa6-4d2d-a230-395bb767e99f-item-1",
+        "template--21353693970738__1a8f9469-2fa6-4d2d-a230-395bb767e99f-icon-1",
+        "template--21353693970738__1a8f9469-2fa6-4d2d-a230-395bb767e99f-item-2",
+        "template--21353693970738__1a8f9469-2fa6-4d2d-a230-395bb767e99f-icon-2",
+        "template--21353693970738__1a8f9469-2fa6-4d2d-a230-395bb767e99f-item-3",
+        "template--21353693970738__1a8f9469-2fa6-4d2d-a230-395bb767e99f-icon-3",
+        "8c3796f7-9c14-4258-8784-3834ab7681f3",
+        "b6e0d9f8-b7dc-47c1-9122-cf1b20b2db11"
+      ],
+      "settings": {
+        "scroll_speed": 40,
+        "heading_font": "hf-heading",
+        "text_size": 52,
+        "heading_letter_spacing": 0.4,
+        "text_weight": "weight-bold",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "btn_secondary",
+        "button_type": "button",
+        "show_popup": false,
+        "enable_in_customizer": false,
+        "popup_heading": "<p>Add campaign or promotional text here.</p>",
+        "popup_description": "<p>Add descriptive text to invite your users to sign up for your newsletter.</p>",
+        "popup_tag": "Coming soon",
+        "popup_background_color": "#f9f5f0",
+        "popup_button_style": "btn_secondary",
+        "popup_button_type": "button",
+        "section_top_padding": 0,
+        "section_bottom_padding": 36,
+        "background_color": "#111111",
+        "color_bg_gradient": ""
+      }
+    }
+  },
+  "order": [
+    "banner",
+    "product-grid",
+    "news",
+    "1a8f9469-2fa6-4d2d-a230-395bb767e99f"
+  ]
+}

@@ -1,0 +1,150 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "cart-items": {
+      "type": "main-cart-items",
+      "blocks": {
+        "subtotal_WBYUXz": {
+          "type": "subtotal",
+          "settings": {
+            "show_subtotal_title": false,
+            "total_price_color": "",
+            "font_weight": "weight-medium",
+            "note_size": "body-fs-small"
+          }
+        },
+        "buttons_KiRETj": {
+          "type": "buttons",
+          "settings": {
+            "button_style": "btn_secondary",
+            "button_type": "button",
+            "show_clear_cart": true,
+            "button_stylec": "btn_secondary",
+            "button_typec": "button_outline"
+          }
+        }
+      },
+      "block_order": [
+        "subtotal_WBYUXz",
+        "buttons_KiRETj"
+      ],
+      "settings": {
+        "style": "",
+        "heading_letter_spacing": 0.4,
+        "heading_style": "uppercase",
+        "text": "Cart",
+        "text_color_2": "#f58156",
+        "banner_top_padding": 120,
+        "banner_bottom_padding": 132,
+        "show_cart_breadcrumbs": true,
+        "cart_style": "style-1",
+        "font_family": "body-font",
+        "font_size": "h2",
+        "font_style": "",
+        "show_secondary_image": true,
+        "add_img_padding": false,
+        "product_bg": "#111111",
+        "img_borders": true,
+        "portrait_image": true,
+        "show_vendor": false,
+        "show_details": true,
+        "show_cart_account": true,
+        "show_cart_continue_btn": false,
+        "show_cart_continue_empty": true,
+        "price_font_weight": "normal",
+        "items_label": "Items added to your cart",
+        "label_style": "",
+        "label_font_size": "fs-medium",
+        "label_font_weight": "normal",
+        "picker_font_size": 14,
+        "picker_font_weight": "500",
+        "items_icon": "",
+        "button_style": "btn_secondary",
+        "button_type": "button_icon",
+        "show_cart_note": true,
+        "show_product": false,
+        "product": "",
+        "heading_size": "h3",
+        "p_font_family": "body-font",
+        "pre_price": "Gift box |",
+        "upsell_bg": "#e2d5c5",
+        "summary_bg": "",
+        "top_padding": 40,
+        "bottom_padding": 130,
+        "empty_cart_style": ""
+      }
+    },
+    "7bfa5469-238b-4cc5-9c10-293fe9dbe5cf": {
+      "type": "scrolling-text",
+      "blocks": {
+        "template--21353694069042__7bfa5469-238b-4cc5-9c10-293fe9dbe5cf-item-1": {
+          "type": "item",
+          "settings": {
+            "section_title": "<p>PREMIUM STREETWEAR</p>",
+            "text_color": "#ebe5cf"
+          }
+        },
+        "template--21353694069042__7bfa5469-238b-4cc5-9c10-293fe9dbe5cf-icon-1": {
+          "type": "icon",
+          "settings": {
+            "image": ""
+          }
+        },
+        "template--21353694069042__7bfa5469-238b-4cc5-9c10-293fe9dbe5cf-item-2": {
+          "type": "item",
+          "settings": {
+            "section_title": "<p>PREMIUM STREETWEAR</p>",
+            "text_color": "#f58156"
+          }
+        },
+        "template--21353694069042__7bfa5469-238b-4cc5-9c10-293fe9dbe5cf-icon-2": {
+          "type": "icon",
+          "settings": {
+            "image": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--21353694069042__7bfa5469-238b-4cc5-9c10-293fe9dbe5cf-item-1",
+        "template--21353694069042__7bfa5469-238b-4cc5-9c10-293fe9dbe5cf-icon-1",
+        "template--21353694069042__7bfa5469-238b-4cc5-9c10-293fe9dbe5cf-item-2",
+        "template--21353694069042__7bfa5469-238b-4cc5-9c10-293fe9dbe5cf-icon-2"
+      ],
+      "settings": {
+        "scroll_speed": 33,
+        "heading_font": "hf-heading",
+        "text_size": 52,
+        "heading_letter_spacing": 0.4,
+        "text_weight": "weight-bold",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "btn_secondary",
+        "button_type": "button",
+        "show_popup": false,
+        "enable_in_customizer": false,
+        "popup_heading": "<p>Add campaign or promotional text here.</p>",
+        "popup_description": "<p>Add descriptive text to invite your users to sign up for your newsletter.</p>",
+        "popup_tag": "Coming soon",
+        "popup_background_color": "#f9f5f0",
+        "popup_button_style": "btn_secondary",
+        "popup_button_type": "button",
+        "section_top_padding": 0,
+        "section_bottom_padding": 36,
+        "background_color": "rgba(0,0,0,0)",
+        "color_bg_gradient": ""
+      }
+    }
+  },
+  "order": [
+    "cart-items",
+    "7bfa5469-238b-4cc5-9c10-293fe9dbe5cf"
+  ]
+}
